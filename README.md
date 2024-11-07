@@ -1,7 +1,3 @@
-Here’s a README for the **Laughfy** organization. This document provides an overview of the project and briefly describes each repository.
-
----
-
 # Laughfy
 
 Welcome to **Laughfy**! designed to create a fun, interactive jokes platform. Laughfy allows users to submit, view, and moderate jokes across multiple joke categories, all powered by a scalable, microservices-based architecture.
